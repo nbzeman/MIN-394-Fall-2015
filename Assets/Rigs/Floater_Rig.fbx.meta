@@ -1,0 +1,470 @@
+fileFormatVersion: 2
+guid: c276fe9cf071d48aea93f1bd815e9285
+timeCreated: 1438694237
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Alien_L_EyeBall
+    100002: Alien_L_EyeBall1
+    100004: Alien_M_EyeBall
+    100006: Alien_M_EyeBall_Flat
+    100008: Alien_M_Stalk_1
+    100010: Alien_M_Stalk_10
+    100012: Alien_M_Stalk_2
+    100014: Alien_M_Stalk_2 1
+    100016: Alien_M_Stalk_2 2
+    100018: Alien_M_Stalk_3
+    100020: Alien_M_Stalk_3 1
+    100022: Alien_M_Stalk_3 2
+    100024: Alien_M_Stalk_4
+    100026: Alien_M_Stalk_4 1
+    100028: Alien_M_Stalk_4 2
+    100030: Alien_M_Stalk_5
+    100032: Alien_R_EyeBall
+    100034: Alien_R_EyeBall1
+    100036: AlienRoot
+    100038: directionalLight1
+    100040: //RootNode
+    100042: group1
+    100044: group2
+    100046: group3
+    100048: group4
+    100050: group5
+    100052: ikHandle1
+    100054: ikHandle2
+    100056: ikHandle3
+    100058: pCone1
+    100060: pCone2
+    100062: pCube1
+    100064: pCube2
+    100066: pCube3
+    100068: pCylinder1
+    100070: pCylinder2
+    100072: pCylinder3
+    100074: pCylinder4
+    100076: pCylinder5
+    100078: pSphere1
+    100080: pSphere10
+    100082: pSphere2
+    100084: pSphere3
+    100086: pSphere4
+    100088: pSphere5
+    100090: pSphere6
+    100092: pSphere7
+    100094: pSphere8
+    100096: pSphere9
+    400000: Alien_L_EyeBall
+    400002: Alien_L_EyeBall1
+    400004: Alien_M_EyeBall
+    400006: Alien_M_EyeBall_Flat
+    400008: Alien_M_Stalk_1
+    400010: Alien_M_Stalk_10
+    400012: Alien_M_Stalk_2
+    400014: Alien_M_Stalk_2 1
+    400016: Alien_M_Stalk_2 2
+    400018: Alien_M_Stalk_3
+    400020: Alien_M_Stalk_3 1
+    400022: Alien_M_Stalk_3 2
+    400024: Alien_M_Stalk_4
+    400026: Alien_M_Stalk_4 1
+    400028: Alien_M_Stalk_4 2
+    400030: Alien_M_Stalk_5
+    400032: Alien_R_EyeBall
+    400034: Alien_R_EyeBall1
+    400036: AlienRoot
+    400038: directionalLight1
+    400040: //RootNode
+    400042: group1
+    400044: group2
+    400046: group3
+    400048: group4
+    400050: group5
+    400052: ikHandle1
+    400054: ikHandle2
+    400056: ikHandle3
+    400058: pCone1
+    400060: pCone2
+    400062: pCube1
+    400064: pCube2
+    400066: pCube3
+    400068: pCylinder1
+    400070: pCylinder2
+    400072: pCylinder3
+    400074: pCylinder4
+    400076: pCylinder5
+    400078: pSphere1
+    400080: pSphere10
+    400082: pSphere2
+    400084: pSphere3
+    400086: pSphere4
+    400088: pSphere5
+    400090: pSphere6
+    400092: pSphere7
+    400094: pSphere8
+    400096: pSphere9
+    4300000: pSphere1
+    4300002: pSphere2
+    4300004: pSphere3
+    4300006: pSphere4
+    4300008: pSphere5
+    4300010: pSphere6
+    4300012: pSphere7
+    4300014: pCylinder1
+    4300016: pCylinder2
+    4300018: pCylinder3
+    4300020: pCube3
+    4300022: pCube1
+    4300024: pSphere8
+    4300026: pSphere9
+    4300028: pCone1
+    4300030: pCone2
+    4300032: pSphere10
+    4300034: pCylinder4
+    4300036: pCylinder5
+    4300038: pCube2
+    7400000: Take 001
+    7400002: floating
+    9500000: //RootNode
+    13700000: pCone1
+    13700002: pCone2
+    13700004: pCube1
+    13700006: pCube2
+    13700008: pCube3
+    13700010: pCylinder1
+    13700012: pCylinder2
+    13700014: pCylinder3
+    13700016: pCylinder4
+    13700018: pCylinder5
+    13700020: pSphere1
+    13700022: pSphere10
+    13700024: pSphere2
+    13700026: pSphere3
+    13700028: pSphere4
+    13700030: pSphere5
+    13700032: pSphere6
+    13700034: pSphere7
+    13700036: pSphere8
+    13700038: pSphere9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 120
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AlienRoot
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3/Alien_M_Stalk_4
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3/Alien_M_Stalk_4/Alien_M_EyeBall
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3/Alien_M_Stalk_4/Alien_M_EyeBall/Alien_M_EyeBall_Flat
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2/Alien_M_Stalk_4
+          2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2/Alien_M_Stalk_4
+          2/Alien_R_EyeBall
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2/Alien_M_Stalk_4
+          2/Alien_R_EyeBall/Alien_R_EyeBall1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1/Alien_M_Stalk_4
+          1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1/Alien_M_Stalk_4
+          1/Alien_L_EyeBall
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1/Alien_M_Stalk_4
+          1/Alien_L_EyeBall/Alien_L_EyeBall1
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pCylinder1
+        weight: 1
+      - path: group1/pCylinder2
+        weight: 1
+      - path: group1/pCylinder3
+        weight: 1
+      - path: group1/pSphere1
+        weight: 1
+      - path: group1/pSphere2
+        weight: 1
+      - path: group1/pSphere3
+        weight: 1
+      - path: group1/pSphere4
+        weight: 1
+      - path: group1/pSphere5
+        weight: 1
+      - path: group1/pSphere6
+        weight: 1
+      - path: group1/pSphere7
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/group3
+        weight: 1
+      - path: group4
+        weight: 1
+      - path: group5
+        weight: 1
+      - path: group5/pCone1
+        weight: 1
+      - path: group5/pCone2
+        weight: 1
+      - path: group5/pCube1
+        weight: 1
+      - path: group5/pCube2
+        weight: 1
+      - path: group5/pCube3
+        weight: 1
+      - path: group5/pCylinder4
+        weight: 1
+      - path: group5/pCylinder5
+        weight: 1
+      - path: group5/pSphere8
+        weight: 1
+      - path: group5/pSphere9
+        weight: 1
+      - path: group5/pSphere10
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: floating
+      takeName: Take 001
+      firstFrame: 15
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: AlienRoot
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3/Alien_M_Stalk_4
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3/Alien_M_Stalk_4/Alien_M_EyeBall
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_1/Alien_M_Stalk_2/Alien_M_Stalk_3/Alien_M_Stalk_4/Alien_M_EyeBall/Alien_M_EyeBall_Flat
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2/Alien_M_Stalk_4
+          2
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2/Alien_M_Stalk_4
+          2/Alien_R_EyeBall
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_5/Alien_M_Stalk_2 2/Alien_M_Stalk_3 2/Alien_M_Stalk_4
+          2/Alien_R_EyeBall/Alien_R_EyeBall1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1/Alien_M_Stalk_4
+          1
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1/Alien_M_Stalk_4
+          1/Alien_L_EyeBall
+        weight: 1
+      - path: AlienRoot/Alien_M_Stalk_10/Alien_M_Stalk_2 1/Alien_M_Stalk_3 1/Alien_M_Stalk_4
+          1/Alien_L_EyeBall/Alien_L_EyeBall1
+        weight: 1
+      - path: directionalLight1
+        weight: 1
+      - path: group1
+        weight: 1
+      - path: group1/pCylinder1
+        weight: 1
+      - path: group1/pCylinder2
+        weight: 1
+      - path: group1/pCylinder3
+        weight: 1
+      - path: group1/pSphere1
+        weight: 1
+      - path: group1/pSphere2
+        weight: 1
+      - path: group1/pSphere3
+        weight: 1
+      - path: group1/pSphere4
+        weight: 1
+      - path: group1/pSphere5
+        weight: 1
+      - path: group1/pSphere6
+        weight: 1
+      - path: group1/pSphere7
+        weight: 1
+      - path: group2
+        weight: 1
+      - path: group2/group3
+        weight: 1
+      - path: group4
+        weight: 1
+      - path: group5
+        weight: 1
+      - path: group5/pCone1
+        weight: 1
+      - path: group5/pCone2
+        weight: 1
+      - path: group5/pCube1
+        weight: 1
+      - path: group5/pCube2
+        weight: 1
+      - path: group5/pCube3
+        weight: 1
+      - path: group5/pCylinder4
+        weight: 1
+      - path: group5/pCylinder5
+        weight: 1
+      - path: group5/pSphere8
+        weight: 1
+      - path: group5/pSphere9
+        weight: 1
+      - path: group5/pSphere10
+        weight: 1
+      - path: ikHandle1
+        weight: 1
+      - path: ikHandle2
+        weight: 1
+      - path: ikHandle3
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: AlienRoot
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
