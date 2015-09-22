@@ -13,6 +13,8 @@ public class Z_3rdPersonController : MonoBehaviour {
 	public float rotMultY = 1;
 	public float transMultZ = 1;
 
+	//external transforms
+	public Transform tilt;
 
 	// Use this for initialization
 	void Start () {
@@ -36,6 +38,11 @@ public class Z_3rdPersonController : MonoBehaviour {
 
 		//this will rotate the object in the positive or negative Y axis (Euler) based on the Mouse X input from Unity's input manager
 		transform.Rotate (0, Input.GetAxis ("Horizontal") * rotMultY, 0);
+
+		//this will provide the tilting effect for the Tilt transform
+		tilt.localEulerAngles = new Vector3(Input.GetAxis ("Rocker") * 21, 0, 0);
+
+
 
 
 
