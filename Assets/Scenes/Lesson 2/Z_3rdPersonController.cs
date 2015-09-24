@@ -11,8 +11,12 @@ public class Z_3rdPersonController : MonoBehaviour {
 
 	//input multipliers
 	public float rotMultY = 1;
-	public float transMultZ = 1;
+	public float rotMultZ = 1;
 
+	public float transMultZ = 1;
+	public float transMultX = 1;
+
+	
 	//external transforms
 	public Transform tilt;
 
@@ -31,8 +35,8 @@ public class Z_3rdPersonController : MonoBehaviour {
 
 
 
-		//this will translate the local Z based on the Vertical axis in the Unity Input Manager
-		transform.Translate (0, 0, Input.GetAxis ("Vertical") * transMultZ, Space.Self);
+		//this will translate the local Z based on the Vertical axis in the Unity Input Manager and the local X based on the horizontal input
+		transform.Translate (Input.GetAxis ("Strafe") * transMultX, 0, Input.GetAxis ("Vertical") * transMultZ, Space.Self);
 
 
 
@@ -40,7 +44,7 @@ public class Z_3rdPersonController : MonoBehaviour {
 		transform.Rotate (0, Input.GetAxis ("Horizontal") * rotMultY, 0);
 
 		//this will provide the tilting effect for the Tilt transform
-		tilt.localEulerAngles = new Vector3(Input.GetAxis ("Rocker") * 21, 0, 0);
+		tilt.localEulerAngles = new Vector3(Input.GetAxis ("Rocker") * 21, 0, -Input.GetAxis("Strafe")*20);
 
 
 
