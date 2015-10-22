@@ -6,11 +6,13 @@ public class Z_PhysicsMove : MonoBehaviour {
 	public float moveSpeed = 1.0f;
 	public float turnSpeed = 1.0f;
 	public float upForce = 12;
-	private Rigidbody rb;
+	public Rigidbody rb;
+	public GameObject go;
 	// Use this for initialization
 	void Start () {
 
-		rb = gameObject.GetComponent<Rigidbody> ();
+		//loads the rigidbody component of THIS GAMEOBJECT to the variable rb
+		rb = this.gameObject.GetComponent<Rigidbody> ();
 
 	}
 	
